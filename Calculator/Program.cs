@@ -1,24 +1,50 @@
 ﻿namespace Calculator
 {
     class Program
-{
-    private static void Main(string[] args)
     {
-        Console.WriteLine("Primeiro valor:");
-        float v1 = float.Parse(Console.ReadLine());
-        Console.WriteLine("Segundo valor:");
-        float v2 = float.Parse(Console.ReadLine());
+        private static void Main(string[] args)
+        {
 
-        float resultado = v1 + v2;
+        }
 
-        Console.WriteLine("");
+        static void soma()
+        {
+            Console.Clear();
 
-        //Concatenação
-        Console.WriteLine("O resultado da soma é: " + resultado);
+            Console.WriteLine("Primeiro valor:");
+            float v1 = float.Parse(Console.ReadLine());
+            Console.WriteLine("Segundo valor:");
+            float v2 = float.Parse(Console.ReadLine());
 
-        //Interpolação
-        Console.WriteLine($"O resultado da soma é {resultado}");
+            float resultado = v1 + v2;
+
+            Console.WriteLine("");
+
+            //Concatenação
+            // Console.WriteLine("O resultado da soma é: " + resultado);
+
+            //Interpolação
+            Console.WriteLine($"O resultado da soma é {resultado}");
+
+            Console.ReadKey();
+        }
+
+        static void Subtracao()
+        {
+            Console.Clear();
+
+            Console.WriteLine("Primeiro valor:");
+            float v1 = float.Parse(Console.ReadLine());
+            Console.WriteLine("Segundo valor:");
+            float v2 = float.Parse(Console.ReadLine());
+
+            Console.WriteLine("");
+
+            float resultado = v1 - v2;
+            Console.WriteLine($"Oresultado da subtracao é {resultado}");
+
+            Console.ReadKey();
+        }
     }
-}
 }
 
