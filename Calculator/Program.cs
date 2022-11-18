@@ -4,6 +4,22 @@
     {
         private static void Main(string[] args)
         {
+            Menu();
+        }
+
+        static void Menu()
+        {
+            Console.Clear();
+            Console.WriteLine("Calculadora C#");
+            Console.WriteLine("1 - Soma");
+            Console.WriteLine("2 - Subtração");
+            Console.WriteLine("3 - Divisão");
+            Console.WriteLine("4 - Multiplicação");
+            Console.WriteLine("5 - Sair");
+            Console.WriteLine("-----------------");
+            Console.WriteLine("Selecione uma opção: ");
+
+            short opcao = short.Parse(Console.ReadLine());
         }
 
 
