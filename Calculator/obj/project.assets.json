@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Peterson\\.nuget\\packages\\": {}
+    "/Users/peterson/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Peterson\\source\\repos\\balta.io-CSharpProjects\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/Calculator/Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Peterson\\source\\repos\\balta.io-CSharpProjects\\Calculator\\Calculator.csproj",
-      "packagesPath": "C:\\Users\\Peterson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Peterson\\source\\repos\\balta.io-CSharpProjects\\Calculator\\obj\\",
+      "projectPath": "/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/Calculator/Calculator.csproj",
+      "packagesPath": "/Users/peterson/.nuget/packages/",
+      "outputPath": "/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Peterson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/peterson/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }
