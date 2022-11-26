@@ -1,0 +1,15 @@
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/obj/Debug/net6.0/TextEditor.csproj.AssemblyReference.cache
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/obj/Debug/net6.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfoInputs.cache
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfo.cs
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/obj/Debug/net6.0/TextEditor.csproj.CoreCompileInputs.cache
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/bin/Debug/net6.0/TextEditor
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/bin/Debug/net6.0/TextEditor.deps.json
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/bin/Debug/net6.0/TextEditor.runtimeconfig.json
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/bin/Debug/net6.0/TextEditor.dll
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/bin/Debug/net6.0/TextEditor.pdb
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/obj/Debug/net6.0/TextEditor.dll
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/obj/Debug/net6.0/refint/TextEditor.dll
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/obj/Debug/net6.0/TextEditor.pdb
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/obj/Debug/net6.0/TextEditor.genruntimeconfig.cache
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/TextEditor/obj/Debug/net6.0/ref/TextEditor.dll
