@@ -1,4 +1,5 @@
-﻿internal class Program
+﻿using System.IO;
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -40,6 +41,23 @@
         }
         while (Console.ReadKey().Key != ConsoleKey.Escape);
 
-        Console.WriteLine(text);
+        Save(text);
+    }
+
+    static void Save(string text)
+    {
+        Console.Clear();
+        Console.WriteLine("Em qual diretorio voce deseja salvar o arquivo?");
+        var path = Console.ReadLine();
+
+        var file = new StreamWriter(path);
+        using (file)
+        {
+            file.Write(text);
+        }
+
+        Console.WriteLine($"Arquivo {path} salvo com suessso!");
+        Console.ReadLine();
+        Menu();
     }
 }
