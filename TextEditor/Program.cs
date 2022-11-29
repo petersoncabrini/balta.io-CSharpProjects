@@ -18,13 +18,28 @@ internal class Program
         switch (option)
         {
             case 0: System.Environment.Exit(0); break;
-            case 1: Abrir(); break;
+            case 1: Open(); break;
             case 2: Create(); break;
             default: Menu(); break;
         }
     }
 
-    static void Abrir() { }
+    static void Open()
+    {
+        Console.Clear();
+        Console.WriteLine("Qual o caminho do arquivo?");
+        string path = Console.ReadLine();
+
+        using (var file = new StreamReader(path))
+        {
+            string text = file.ReadToEnd();
+            Console.WriteLine(text);
+        }
+
+        Console.WriteLine("");
+        Console.ReadLine();
+        Menu();
+    }
 
     static void Create()
     {
