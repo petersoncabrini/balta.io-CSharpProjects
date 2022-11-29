@@ -18,12 +18,28 @@
         {
             case 0: System.Environment.Exit(0); break;
             case 1: Abrir(); break;
-            case 2: Criar(); break;
+            case 2: Create(); break;
             default: Menu(); break;
         }
     }
 
     static void Abrir() { }
 
-    static void Criar() { }
+    static void Create()
+    {
+        Console.Clear();
+        Console.WriteLine("Digite seu texto (ESC para sair): ");
+        Console.WriteLine("----------------------------------");
+
+        string text = "";
+
+        do
+        {
+            text += Console.ReadLine();
+            text += Environment.NewLine;
+        }
+        while (Console.ReadKey().Key != ConsoleKey.Escape);
+
+        Console.WriteLine(text);
+    }
 }
