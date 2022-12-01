@@ -1,0 +1,15 @@
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/bin/Debug/net6.0/EditorHtml
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/obj/Debug/net6.0/refint/EditorHtml.dll
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
+/Users/peterson/Documents/Projetos/balta.io-CSharpProjects/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll
